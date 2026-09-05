@@ -13,7 +13,7 @@
 | **Tác giả** | Rick Durrett (James B. Duke Professor Emeritus, Duke University) |
 | **Nhà xuất bản** | Cambridge University Press (Ấn bản 5, 2019; Ấn bản đầu: 1991) |
 | **ISBN / DOI** | 978-1-108-47368-2 (Hardback) \| DOI: [10.1017/9781108591034](https://doi.org/10.1017/9781108591034) |
-| **Liên kết chính thức** | [Cambridge Core](https://www.cambridge.org/core/books/probability-theory-and-examples/5DE4B84EEB543FE3D8180E7E5943E92B) \| [Trang tác giả (Duke University)](https://services.math.duke.edu/~rtd/PTE/pte.html) |
+| **Liên kết chính thức** | [Trang tác giả (Duke University)](https://services.math.duke.edu/~rtd/PTE/pte.html) |
 | **Quyền truy cập** | Bản in/eBook có bản quyền NXB. Tác giả duy trì bản thảo Version 5 công khai trên website cá nhân phục vụ học tập và nghiên cứu phi thương mại. |
 
 ---

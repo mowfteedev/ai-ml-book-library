@@ -13,7 +13,7 @@
 | **Tác giả** | Rick Durrett (James B. Duke Professor Emeritus, Duke University) |
 | **Nhà xuất bản** | Cambridge University Press (2012; Bản thảo cập nhật v2.4, 2021) |
 | **ISBN** | 978-0-521-86756-6 (Hardback) \| 978-0-511-60179-8 (eBook) |
-| **Liên kết chính thức** | [Cambridge University Press](https://www.cambridge.org/highereducation/books/elementary-probability-for-applications/01A511C5EDC1D07A1192FA896FA291C8) \| [Trang tác giả (Duke University)](https://services.math.duke.edu/~rtd/EP4A/EP4A.html) |
+| **Liên kết chính thức** | [Trang tác giả (Duke University)](https://services.math.duke.edu/~rtd/EP4A/EP4A.html) |
 | **Quyền truy cập** | Bản in/eBook có bản quyền NXB. Tác giả chia sẻ bản thảo PDF miễn phí trên website cá nhân phục vụ học tập phi thương mại. |
 
 ---
