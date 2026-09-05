@@ -56,13 +56,8 @@ Repository đóng vai trò như một cẩm nang định hướng (study compani
 
 ---
 
-## 📄 License & Legal Notices
+## 📄 License
 
-```text
-Copyright © 2026 mowfteedev
-```
+Original content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-* **Original Content (CC BY 4.0)**: Toàn bộ nội dung nguyên bản do repository xây dựng (`README.md`, các profiles `books/*.md`, tóm tắt, đánh giá giám tuyển, tài liệu điều hướng và metadata) được cấp phép theo [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). Người dùng được tự do tái sử dụng với điều kiện duy trì **Attribution** phù hợp.
-* **Third-Party Rights Exclusion**: Bản quyền 10 cuốn sách, nội dung nguyên tác, công thức, tệp PDF, bản dịch, bìa sách và nhãn hiệu thuộc về **tác giả và nhà xuất bản tương ứng**. Repository không sở hữu, không cấp phép lại cho các tài liệu này và không lưu trữ bất kỳ tệp PDF/sách nào.
-* **External Links**: Các liên kết ngoài chỉ phục vụ mục đích trỏ tới nguồn phát hành chính thống/hợp pháp và không chuyển giao quyền sở hữu trí tuệ cho repository.
-* **Tiêu chuẩn thông tin**: Phân biệt ranh giới minh bạch giữa *Verified Bibliographic Information* (dữ liệu thư mục, ISBN, mục lục đối chiếu từ NXB/tác giả) và *Repository Assessment* (đánh giá học thuật độc lập của repo).
+Books and other third-party materials remain the property of their respective authors, publishers, or copyright holders. This repository does not host or redistribute them.
