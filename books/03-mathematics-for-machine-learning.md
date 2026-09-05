@@ -14,6 +14,7 @@
 | **Nhà xuất bản** | Cambridge University Press (2020) |
 | **ISBN / DOI** | 978-1-108-45514-5 (Paperback) \| 978-1-108-47014-8 (Hardback) \| DOI: [10.1017/9781108679930](https://doi.org/10.1017/9781108679930) |
 | **Liên kết chính thức** | [Website sách (mml-book.com)](https://mml-book.com) \| [GitHub Code](https://github.com/mml-book/mml-book.github.io) |
+| **Bản PDF miễn phí** | [Tải PDF chính thức (mml-book.pdf)](https://mml-book.github.io/book/mml-book.pdf) |
 | **Quyền truy cập** | Bản in/eBook có bản quyền NXB. Nhóm tác giả cung cấp bản PDF hoàn chỉnh miễn phí hợp pháp theo giấy phép Creative Commons CC BY-NC-ND 4.0 tại mml-book.com. |
 
 ---

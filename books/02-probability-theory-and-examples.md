@@ -14,6 +14,7 @@
 | **Nhà xuất bản** | Cambridge University Press (Ấn bản 5, 2019; Ấn bản đầu: 1991) |
 | **ISBN / DOI** | 978-1-108-47368-2 (Hardback) \| DOI: [10.1017/9781108591034](https://doi.org/10.1017/9781108591034) |
 | **Liên kết chính thức** | [Trang tác giả (Duke University)](https://services.math.duke.edu/~rtd/PTE/pte.html) |
+| **Bản PDF miễn phí** | [Tải PDF Version 5 (Duke University)](https://sites.math.duke.edu/~rtd/PTE/PTE5_011119.pdf) |
 | **Quyền truy cập** | Bản in/eBook có bản quyền NXB. Tác giả duy trì bản thảo Version 5 công khai trên website cá nhân phục vụ học tập và nghiên cứu phi thương mại. |
 
 ---

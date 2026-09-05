@@ -14,6 +14,7 @@
 | **Nhà xuất bản** | Cambridge University Press (2012; Bản thảo cập nhật v2.4, 2021) |
 | **ISBN** | 978-0-521-86756-6 (Hardback) \| 978-0-511-60179-8 (eBook) |
 | **Liên kết chính thức** | [Trang tác giả (Duke University)](https://services.math.duke.edu/~rtd/EP4A/EP4A.html) |
+| **Bản PDF miễn phí** | [Tải PDF (Duke University)](https://sites.math.duke.edu/~rtd/EP4A/EP4A_April2021.pdf) |
 | **Quyền truy cập** | Bản in/eBook có bản quyền NXB. Tác giả chia sẻ bản thảo PDF miễn phí trên website cá nhân phục vụ học tập phi thương mại. |
 
 ---
