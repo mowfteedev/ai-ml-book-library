@@ -15,8 +15,8 @@ Repository này được xây dựng theo tiêu chuẩn học thuật nghiêm ng
 | # | Tác phẩm (Book Title) | Tác giả | Trọng tâm chính | Mức độ Toán | Hồ sơ chi tiết |
 | :-: | :--- | :--- | :--- | :---: | :---: |
 | **01** | **Elementary Probability for Applications** | Rick Durrett | Nền tảng xác suất trực quan & Markov chains | Nhập môn | [👉 Xem Profile](books/01-elementary-probability-for-applications.md) |
-| **02** | *Probability: Theory and Examples* (5th Ed.) | Rick Durrett | Xác suất giải tích độ đo & Martingales | Nâng cao | *(Đang biên soạn)* |
-| **03** | *Mathematics for Machine Learning* | M. P. Deisenroth, A. A. Faisal, C. S. Ong | Đại số tuyến tính, Giải tích đa biến, Tối ưu hóa & 4 trụ cột ML | Trung cấp | *(Đang biên soạn)* |
+| **02** | **Probability: Theory and Examples** (5th Ed.) | Rick Durrett | Xác suất giải tích độ đo & Martingales | Nâng cao | [👉 Xem Profile](books/02-probability-theory-and-examples.md) |
+| **03** | **Mathematics for Machine Learning** | M. P. Deisenroth, A. A. Faisal, C. S. Ong | Đại số tuyến tính, Giải tích đa biến, Tối ưu hóa & 4 trụ cột ML | Trung cấp | [👉 Xem Profile](books/03-mathematics-for-machine-learning.md) |
 | **04** | *Understanding Machine Learning: From Theory to Algorithms* | S. Shalev-Shwartz, S. Ben-David | Lý thuyết học máy kinh điển (PAC, VC, Rademacher, Convex) | Trung cấp - Nâng cao | *(Đang biên soạn)* |
 | **05** | *Advanced Data Analysis from an Elementary Point of View* | Cosma Rohilla Shalizi | Hồi quy phi tham số, Mô hình phụ gia & Suy luận nhân quả | Thực nghiệm - Nâng cao | *(Đang biên soạn)* |
 | **06** | *Algorithmic Aspects of Machine Learning* | Ankur Moitra | Phân tích thuật toán ML từ góc độ CS lý thuyết (Tensors, ICA, GMM) | Nâng cao | *(Đang biên soạn)* |
