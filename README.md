@@ -56,8 +56,10 @@ Repository đóng vai trò như một cẩm nang định hướng (study compani
 
 ---
 
-## 📄 License
+### 📄 Copyright
 
-Original content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+This repository is a curated educational resource. Original content is provided for informational and educational purposes.
 
 Books and other third-party materials remain the property of their respective authors, publishers, or copyright holders. This repository does not host or redistribute them.
+
+External links are provided for reference and point to their respective official or authorized sources.
