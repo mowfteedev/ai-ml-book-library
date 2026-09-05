@@ -2,7 +2,7 @@
 
 > **Tác giả:** Rick Durrett  
 > **Nhà xuất bản:** Cambridge University Press (2012)  
-> **Lĩnh vực:** Xác suất ứng dụng & Nền tảng phân tích ngẫu nhiên  
+> **Trọng tâm học thuật:** Xác suất ứng dụng sơ cấp, giải tích tổ hợp, phân phối xác suất & xích Markov  
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 3. Cấu trúc nội dung (What's Inside)
 
-| Chương | Tên chương | Nội dung trọng tâm |
+| Chương | Tên chương | Trọng tâm học thuật |
 | :-: | :--- | :--- |
 | **1** | Combinatorial Probability | Không gian mẫu, kỹ thuật đếm, hoán vị, tổ hợp, xấp xỉ Poisson, biến ngẫu nhiên và kỳ vọng rời rạc. |
 | **2** | Independence | Xác suất có điều kiện, quy tắc nhân, phân phối rời rạc (Hình học, Nhị thức, Đa thức), công thức bao hàm - loại trừ. |
@@ -44,4 +44,4 @@
 | :--- | :--- |
 | **Độc giả phù hợp** | Người mới bắt đầu với AI/Data Science cần nắm trực giác xác suất; Kỹ sư phần mềm chuyển ngành; Sinh viên STEM. |
 | **Tiên quyết** | Đại số cơ bản, giải tích một biến (đạo hàm, tích phân cơ bản). Không yêu cầu giải tích thực hay lý thuyết độ đo. |
-| **Ứng dụng AI/ML** | Nền tảng suy luận Bayes (Naive Bayes, MAP); Cơ sở lý thuyết hội tụ dữ liệu lớn (LLN/CLT); Tiền đề cho Markov Decision Process (MDP) trong Reinforcement Learning. |
+| **Trọng tâm ứng dụng AI/ML** | Nền tảng suy luận Bayes (Naive Bayes, MAP); Cơ sở lý thuyết hội tụ dữ liệu lớn (LLN/CLT); Tiền đề cho Markov Decision Process (MDP) trong Reinforcement Learning. |

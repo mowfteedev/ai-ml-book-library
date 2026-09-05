@@ -2,7 +2,7 @@
 
 > **Tác giả:** Tong Zhang  
 > **Nhà xuất bản:** Cambridge University Press (2023)  
-> **Lĩnh vực:** Lý thuyết nồng độ xác suất, Tối ưu hóa thống kê & Lý thuyết RL  
+> **Trọng tâm học thuật:** Bất đẳng thức nồng độ xác suất, phân tích hội tụ SGD, cận PAC-Bayes & Lý thuyết RL  
 
 ---
 
@@ -27,12 +27,12 @@
 
 ## 3. Cấu trúc nội dung (What's Inside)
 
-| Phần / Chương | Tên chủ đề | Nội dung trọng tâm |
+| Phần / Chương | Tên chủ đề | Trọng tâm học thuật |
 | :-: | :--- | :--- |
-| **Part I** | Bất đẳng thức nồng độ & Thống kê | Bất đẳng thức Chernoff, Hoeffding, Bernstein, McDiarmid; Martingale concentration; Cận bao phủ metric. |
-| **Part II** | Hội tụ đồng đều & Độ phức tạp | Rademacher Complexity, PAC-Bayes Bounds, Cận sai số tổng quát hóa cho mô hình tham số lớn. |
-| **Part III** | Tối ưu hóa trong Machine Learning | Phân tích hội tụ của SGD, thuật toán giảm phương sai (SVRG), tối ưu hóa gia tốc Nesterov, bề mặt tối ưu phi lồi. |
-| **Part IV** | Bandits & Lý thuyết Reinforcement Learning | Multi-Armed Bandits (UCB, Thompson Sampling), Học tăng cường mô hình Markov (MDP), Cận mẫu (Sample Complexity) trong RL. |
+| **Part I** | Bất đẳng thức nồng độ & Thống kê | Bất đẳng thức Chernoff, Hoeffding, Bernstein, McDiarmid; Nồng độ Martingale (Azuma-Hoeffding); Cận bao phủ metric (Metric Entropy). |
+| **Part II** | Hội tụ đồng đều & Độ phức tạp | Rademacher Complexity, Cận PAC-Bayes, Thiết lập cận sai số tổng quát hóa cho mô hình tham số lớn và mạng neural. |
+| **Part III** | Tối ưu hóa trong Machine Learning | Phân tích hội tụ của Stochastic Gradient Descent (SGD), thuật toán giảm phương sai (SVRG), tối ưu hóa gia tốc Nesterov, phân tích bề mặt tối ưu phi lồi. |
+| **Part IV** | Bandits & Lý thuyết Reinforcement Learning | Multi-Armed Bandits (UCB, Thompson Sampling), Học tăng cường mô hình Markov (MDP), Cận độ phức tạp mẫu (Sample Complexity) trong RL. |
 
 ---
 
@@ -42,4 +42,4 @@
 | :--- | :--- |
 | **Độc giả phù hợp** | Nghiên cứu sinh tiến sĩ, nhà nghiên cứu ML chuyên sâu về Theoretical Machine Learning và Reinforcement Learning. |
 | **Tiên quyết** | Lý thuyết xác suất vững chắc, đại số ma trận, giải tích đa biến và tối ưu hóa lồi nâng cao. |
-| **Ứng dụng AI/ML** | Cung cấp công cụ toán học tối tân để thiết lập chứng minh bảo đảm lý thuyết cho các thuật toán ML hiện đại và mô hình RL. |
+| **Trọng tâm ứng dụng AI/ML** | Cung cấp công cụ toán học tối tân để chứng minh độ ổn định, tốc độ hội tụ và cận hiệu năng lý thuyết cho các thuật toán học máy và học tăng cường. |

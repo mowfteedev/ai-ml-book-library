@@ -2,7 +2,7 @@
 
 > **Tác giả:** Yao Ma, Jiliang Tang  
 > **Nhà xuất bản:** Cambridge University Press (2021)  
-> **Lĩnh vực:** Biểu diễn học & Mạng Neural Đồ thị (GNNs)  
+> **Trọng tâm học thuật:** Mạng neural đồ thị (GCN, GAT, MPNN), giới hạn năng lực biểu diễn (WL test) & học sâu dữ liệu phi Euclid  
 
 ---
 
@@ -27,12 +27,12 @@
 
 ## 3. Cấu trúc nội dung (What's Inside)
 
-| Phần / Chương | Tên chủ đề | Nội dung trọng tâm |
+| Phần / Chương | Tên chủ đề | Trọng tâm học thuật |
 | :-: | :--- | :--- |
-| **Part I** | Nền tảng Đồ thị & Học sâu | Lý thuyết đồ thị, toán tử Laplacian trên đồ thị, mô hình nhúng nút (Node2Vec, DeepWalk). |
-| **Part II** | Mạng Neural Đồ thị (GNNs) | Tích chập phổ & không gian (Spectral/Spatial GCN), Graph Attention Networks (GAT), Message Passing Neural Networks. |
-| **Part III** | Phương pháp nâng cao & Phân tích lý thuyết | Năng lực biểu diễn của GNNs và kiểm định đẳng cấu Weisfeiler-Lehman (WL test), Graph Pooling, GNN quy mô lớn. |
-| **Part IV** | Ứng dụng & Hướng phát triển | Đồ thị tri thức (Knowledge Graphs), Mô hình sinh đồ thị (Graph Generative Models), Mạng dị thể (Heterogeneous Graphs). |
+| **Part I** | Nền tảng Đồ thị & Học sâu | Lý thuyết đồ thị, toán tử Laplacian ma trận, phương pháp bước đi ngẫu nhiên và mô hình nhúng nút (Node2Vec, DeepWalk). |
+| **Part II** | Mạng Neural Đồ thị (GNNs) | Tích chập phổ & không gian (Spectral/Spatial GCN), Graph Attention Networks (GAT), Khung truyền thông điệp (Message Passing Neural Networks). |
+| **Part III** | Phương pháp nâng cao & Phân tích lý thuyết | Phân tích năng lực biểu diễn của GNNs qua kiểm định đẳng cấu Weisfeiler-Lehman (WL test), Graph Pooling, GNN phân tán quy mô lớn. |
+| **Part IV** | Ứng dụng & Hướng phát triển | Đồ thị tri thức (Knowledge Graph Embeddings), Mô hình sinh đồ thị (Graph Generative Models), Mạng đồ thị dị thể (Heterogeneous Graphs). |
 
 ---
 
@@ -40,6 +40,6 @@
 
 | Tiêu chí | Chi tiết |
 | :--- | :--- |
-| **Độc giả phù hợp** | Kỹ sư AI, nghiên cứu sinh trong các lĩnh vực mạng xã hội, tin sinh học, phát hiện gian lận và biểu diễn dữ liệu quan hệ. |
-| **Tiên quyết** | Đại số tuyến tính (phổ ma trận), giải tích vector, kiến thức nền về mạng neural cơ bản (CNN/RNN). |
-| **Ứng dụng AI/ML** | Làm chủ các kiến trúc mô hình hóa dữ liệu dạng mạng lưới, phân tử hóa học, hệ thống gợi ý và đồ thị tri thức. |
+| **Độc giả phù hợp** | Kỹ sư AI, nghiên cứu sinh trong các lĩnh vực mạng xã hội, tin sinh học (phân tử/protein), phát hiện gian lận và biểu diễn dữ liệu quan hệ. |
+| **Tiên quyết** | Đại số tuyến tính (phổ ma trận, vector riêng Laplacian), giải tích vector, kiến thức nền về mạng neural cơ bản (CNN/RNN). |
+| **Trọng tâm ứng dụng AI/ML** | Làm chủ các kiến trúc mô hình hóa dữ liệu dạng mạng lưới phức tạp, tương tác sinh học, hệ thống gợi ý quy mô lớn và đồ thị tri thức. |

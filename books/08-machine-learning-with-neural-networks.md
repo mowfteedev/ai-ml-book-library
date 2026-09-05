@@ -2,7 +2,7 @@
 
 > **Tác giả:** Bernhard Mehlig  
 > **Nhà xuất bản:** Cambridge University Press (2021)  
-> **Lĩnh vực:** Vật lý thống kê của Mạng Neural & Học sâu  
+> **Trọng tâm học thuật:** Vật lý thống kê mạng neural, Perceptron (thể tích Gardner), mạng Hopfield & mô hình Spin Glass  
 
 ---
 
@@ -27,14 +27,14 @@
 
 ## 3. Cấu trúc nội dung (What's Inside)
 
-| Chương | Tên chương | Nội dung trọng tâm |
+| Chương | Tên chương | Trọng tâm học thuật |
 | :-: | :--- | :--- |
-| **1** | Perceptrons & Linear Separability | Khả năng phân tách tuyến tính, định lý Cover, thể tích nghiệm Gardner và quy tắc học Perceptron. |
-| **2** | Multilayer Networks & Backpropagation | Mạng nhiều lớp, đạo hàm lan truyền ngược, gradient descent và bề mặt hàm mất mát. |
+| **1** | Perceptrons & Linear Separability | Khả năng phân tách tuyến tính, định lý Cover, tính toán thể tích không gian trọng số Gardner và quy tắc học Perceptron. |
+| **2** | Multilayer Networks & Backpropagation | Mạng nơ-ron nhiều lớp, giải tích vi phân lan truyền ngược, động lực học gradient descent và hình học cảnh quan hàm mất mát (loss landscape). |
 | **3** | Hopfield Networks & Associative Memory | Mạng Hopfield, bộ nhớ kết hợp (Associative Memory), hàm năng lượng Lyapunov, hiện tượng Spin Glass và phá vỡ đối xứng replica. |
-| **4** | Energy-Based Models & Boltzmann Machines | Mô hình Ising, máy Boltzmann giới hạn (RBM), lấy mẫu Gibbs và xấp xỉ trường trung bình (Mean-field theory). |
-| **5** | Deep Networks & Convolution | Mạng tích chập (CNN), mạng hồi quy (RNN), tính bất biến tịnh tiến và biểu diễn đặc trưng phân cấp. |
-| **6** | Generalization & Overparameterization | Tổng quát hóa, hiện tượng quá tham số hóa (Overparameterization) và cơ chế học trong mạng sâu vô hạn chiều. |
+| **4** | Energy-Based Models & Boltzmann Machines | Mô hình Ising, máy Boltzmann giới hạn (RBM), lấy mẫu Gibbs và lý thuyết xấp xỉ trường trung bình (Mean-field theory). |
+| **5** | Deep Networks & Convolution | Mạng tích chập (CNN), mạng hồi quy (RNN), tính bất biến tịnh tiến và biểu diễn đặc trưng phân cấp qua các tầng sâu. |
+| **6** | Generalization & Overparameterization | Hiện tượng quá tham số hóa (Overparameterization), hiện tượng double descent và cơ chế tổng quát hóa dưới góc nhìn vật lý thống kê. |
 
 ---
 
@@ -44,4 +44,4 @@
 | :--- | :--- |
 | **Độc giả phù hợp** | Nhà vật lý, kỹ sư và nhà nghiên cứu AI muốn giải mã bản chất cơ chế của mạng neural qua lăng kính vật lý thống kê. |
 | **Tiên quyết** | Đại số tuyến tính, giải tích đa biến, xác suất thống kê cơ sở. Không bắt buộc phải có bằng vật lý lý thuyết. |
-| **Ứng dụng AI/ML** | Cung cấp trực giác cơ học và năng lượng đằng sau các thuật toán học sâu, mô hình sinh năng lượng và bộ nhớ kết hợp hiện đại. |
+| **Trọng tâm ứng dụng AI/ML** | Cung cấp trực giác cơ học và năng lượng đằng sau các kiến trúc học sâu, mô hình sinh năng lượng và bộ nhớ kết hợp hiện đại. |

@@ -2,7 +2,7 @@
 
 > **Tác giả:** Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong  
 > **Nhà xuất bản:** Cambridge University Press (2020)  
-> **Lĩnh vực:** Toán học nền tảng cho Trí tuệ nhân tạo & Học máy  
+> **Trọng tâm học thuật:** Nền tảng toán học ML (Đại số tuyến tính, Giải tích vector, Tối ưu lồi) & Thiết lập 4 bài toán máy học  
 
 ---
 
@@ -21,13 +21,13 @@
 
 ## 2. Tóm tắt cốt lõi (Executive Summary)
 
-*Mathematics for Machine Learning* là cầu nối trực diện giữa các phân ngành toán học nền tảng với các thuật toán học máy kinh điển. Sách chia làm 2 phần: **Phần I** trang bị 6 công cụ toán học cốt lõi (Đại số tuyến tính, Hình học giải tích, Phân rã ma trận, Giải tích vector, Xác suất & phân phối, Tối ưu hóa liên tục); **Phần II** áp dụng trực tiếp để thiết lập 4 trụ cột ML lớn (Hồi quy tuyến tính, PCA, GMM và SVM).
+*Mathematics for Machine Learning* là cầu nối trực diện giữa các phân ngành toán học nền tảng với các thuật toán học máy kinh điển. Sách chia làm 2 phần: **Phần I** trang bị 6 công cụ toán học cốt lõi (Đại số tuyến tính, Hình học giải tích, Phân rã ma trận, Giải tích vector, Xác suất & phân phối, Tối ưu hóa liên tục); **Phần II** áp dụng trực tiếp các công cụ này để thiết lập và giải quyết 4 trụ cột ML lớn (Hồi quy tuyến tính, PCA, GMM và SVM).
 
 ---
 
 ## 3. Cấu trúc nội dung (What's Inside)
 
-| Chương | Tên chương | Nội dung trọng tâm |
+| Chương | Tên chương | Trọng tâm học thuật |
 | :-: | :--- | :--- |
 | **1** | Introduction and Motivation | Biểu diễn dữ liệu dưới dạng vector/ma trận, trực giác hình học và vai trò của toán trong ML. |
 | **2** | Linear Algebra | Hệ phương trình tuyến tính, không gian vector, độc lập tuyến tính, cơ sở, số chiều, ánh xạ tuyến tính và không gian affine. |
@@ -50,4 +50,4 @@
 | :--- | :--- |
 | **Độc giả phù hợp** | Kỹ sư AI / Data Scientist muốn hiểu sâu bản chất toán học sau code thư viện; Sinh viên STEM cần giáo trình chuẩn hóa toán cho ML. |
 | **Tiên quyết** | Toán phổ thông vững (đại số cơ bản, giải tích 1 biến). Không yêu cầu kiến thức máy học từ trước. |
-| **Ứng dụng AI/ML** | Cung cấp ngôn ngữ toán học chuẩn mực (Matrix calculus, SVD, Lagrange, Gaussians) dùng trong hầu hết mô hình AI; giải mã cơ chế nội tại của PCA, hồi quy, SVM, EM. |
+| **Trọng tâm ứng dụng AI/ML** | Cung cấp ngôn ngữ toán học chuẩn mực (Matrix calculus, SVD, Lagrange, Gaussians) dùng trong hầu hết mô hình AI; giải mã cơ chế nội tại của PCA, hồi quy, SVM, EM. |
