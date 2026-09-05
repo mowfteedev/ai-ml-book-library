@@ -76,3 +76,20 @@ Không có một thứ tự duy nhất bắt buộc cho tất cả mọi ngườ
 * **Phân định thông tin**:
   * **Verified Bibliographic Information**: Thông tin thư mục, ISBN, tác giả và cấu trúc chương mục được đối chiếu trực tiếp từ nguồn xuất bản chính thống, không suy diễn hoặc hallucinate.
   * **Repository's Interpretation / Assessment**: Các phần đánh giá, phân loại đối tượng và gợi ý lộ trình là góc nhìn tổng hợp học thuật độc lập của repository nhằm hỗ trợ cộng đồng tự học.
+
+---
+
+## 📄 License & Copyright
+
+```text
+Copyright © [YEAR] [COPYRIGHT HOLDER]
+```
+
+* **Giấy phép cho nội dung gốc (Original Content)**: Toàn bộ nội dung nguyên bản do repository tự biên soạn — bao gồm `README.md`, các hồ sơ sách (`books/*.md`), các phần tóm tắt khái niệm, mô tả tổng quan, đánh giá giám tuyển độc lập, tài liệu điều hướng và cấu trúc metadata — được phát hành theo giấy phép **[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)**.
+* **Điều kiện tái sử dụng**: Bạn được tự do chia sẻ (sao chép, phân phối) và điều chỉnh (chuyển thể, phát triển tiếp) các nội dung gốc của repository này cho bất kỳ mục đích nào, với điều kiện bắt buộc là **phải giữ nguyên thông tin ghi công (Attribution)** phù hợp và dẫn liên kết tới giấy phép CC BY 4.0.
+* **Bảo lưu quyền của bên thứ ba (Third-Party Rights Exclusion)**:
+  * Bản quyền của 10 cuốn sách được giới thiệu, toàn văn nội dung nguyên tác, công thức, bản thảo, tệp PDF, bản dịch, bìa sách (covers), tài liệu của nhà xuất bản, logo và nhãn hiệu thuộc về các **tác giả, nhà xuất bản hoặc chủ sở hữu bản quyền tương ứng**.
+  * Repository này **không cấp phép (does NOT license)** và không tuyên bố quyền sở hữu đối với bất kỳ tác phẩm hoặc tài nguyên nào của bên thứ ba.
+  * Các liên kết ngoài (External links) chỉ đóng vai trò chỉ dẫn tới nguồn phân phối chính thống/hợp pháp và **không cấu thành việc chuyển giao quyền sở hữu hoặc bản quyền** cho repository này.
+  * Repository cam kết **không lưu trữ, tải lên hoặc phân phối lại (redistribute)** bất kỳ tệp PDF, bản dịch toàn văn, cover artwork hoặc tài liệu có bản quyền nào của bên thứ ba.
+
