@@ -23,31 +23,37 @@ Repository đóng vai trò như một cẩm nang định hướng (study compani
 
 ---
 
-## 🗺️ Hệ sinh thái & Ma trận liên kết (Ecosystem Matrix)
+## 🗺️ Sơ đồ tri thức (Knowledge Map)
 
 10 tác phẩm được cấu trúc theo 4 tầng tri thức tương hỗ:
 
-```
-[1. XÁC SUẤT & TOÁN NỀN TẢNG]
-  ├── 01. Elementary Probability for Applications (Trực giác xác suất & Markov)
-  ├── 02. Probability: Theory and Examples (Lý thuyết xác suất độ đo chuẩn mực)
-  └── 03. Mathematics for Machine Learning (Đại số tuyến tính, Giải tích & Tối ưu)
-             │
-             ▼
-[2. THỐNG KÊ THỰC NGHIỆM & DỮ LIỆU]
-  └── 05. Advanced Data Analysis from an Elementary Point of View (Phi tham số & Nhân quả)
-             │
-             ▼
-[3. LÝ THUYẾT HỌC MÁY & KHOA HỌC MÁY TÍNH THUẬT TOÁN]
-  ├── 04. Understanding Machine Learning (PAC-learning, VC-dim & Tổng quát hóa)
-  ├── 06. Algorithmic Aspects of Machine Learning (Tensor, GMM & CS lý thuyết)
-  └── 07. Mathematical Analysis of ML Algorithms (Tập trung xác suất, Bandits & RL)
-             │
-             ▼
-[4. DEEP LEARNING CƠ CHẾ & HÌNH HỌC]
-  ├── 08. Machine Learning with Neural Networks (Vật lý thống kê của mạng neural)
-  ├── 09. The Principles of Deep Learning Theory (Effective Field Theory cho mạng sâu)
-  └── 10. Deep Learning on Graphs (Hình học đồ thị & Cấu trúc phi Euclid)
+```mermaid
+flowchart TD
+    subgraph T1["1. Xác suất & Toán nền tảng"]
+        B01["01. Elementary Probability for Applications<br/>(Trực giác xác suất & Markov)"]
+        B02["02. Probability: Theory and Examples<br/>(Xác suất giải tích độ đo)"]
+        B03["03. Mathematics for Machine Learning<br/>(Đại số tuyến tính, Giải tích & Tối ưu)"]
+    end
+
+    subgraph T2["2. Thống kê thực nghiệm & Dữ liệu"]
+        B05["05. Advanced Data Analysis from an Elementary Point of View<br/>(Phi tham số & Suy luận nhân quả)"]
+    end
+
+    subgraph T3["3. Lý thuyết học máy & Khoa học máy tính thuật toán"]
+        B04["04. Understanding Machine Learning<br/>(PAC-learning, VC-dim & Tổng quát hóa)"]
+        B06["06. Algorithmic Aspects of Machine Learning<br/>(Tensor, GMM & CS lý thuyết)"]
+        B07["07. Mathematical Analysis of ML Algorithms<br/>(Tập trung xác suất, Bandits & RL)"]
+    end
+
+    subgraph T4["4. Deep Learning cơ chế & Hình học"]
+        B08["08. Machine Learning with Neural Networks<br/>(Vật lý thống kê của mạng neural)"]
+        B09["09. The Principles of Deep Learning Theory<br/>(Effective Field Theory cho mạng sâu)"]
+        B10["10. Deep Learning on Graphs<br/>(Hình học đồ thị & Cấu trúc phi Euclid)"]
+    end
+
+    T1 ==> T2
+    T2 ==> T3
+    T3 ==> T4
 ```
 
 ---
