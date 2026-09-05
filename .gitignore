@@ -1,0 +1,12 @@
+# Prevent any book binary or ebook formats from being tracked
+*.pdf
+*.PDF
+*.epub
+*.djvu
+*.mobi
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+/scratch/
+*.log
