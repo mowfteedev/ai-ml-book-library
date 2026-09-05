@@ -12,18 +12,18 @@ Repository đóng vai trò như một cẩm nang định hướng (study compani
 
 ## 📚 Danh mục bộ sưu tập (Collection Index)
 
-| # | Tác phẩm (Book Title) | Tác giả | Trọng tâm học thuật | Mức độ | Hồ sơ |
-| :-: | :--- | :--- | :--- | :---: | :---: |
-| **01** | **Elementary Probability for Applications** | Rick Durrett | Trực giác xác suất & Markov chains | Nhập môn | [👉 Xem Profile](books/01-elementary-probability-for-applications.md) |
-| **02** | **Probability: Theory and Examples** (5th Ed.) | Rick Durrett | Xác suất giải tích độ đo & Martingales | Nâng cao | [👉 Xem Profile](books/02-probability-theory-and-examples.md) |
-| **03** | **Mathematics for Machine Learning** | M. P. Deisenroth, A. A. Faisal, C. S. Ong | Đại số tuyến tính, Giải tích & 4 trụ cột ML | Trung cấp | [👉 Xem Profile](books/03-mathematics-for-machine-learning.md) |
-| **04** | *Understanding Machine Learning: From Theory to Algorithms* | S. Shalev-Shwartz, S. Ben-David | Lý thuyết học thống kê (PAC, VC, Convex) | Trung cấp - Nâng cao | *(Đang biên soạn)* |
-| **05** | *Advanced Data Analysis from an Elementary Point of View* | Cosma Rohilla Shalizi | Hồi quy phi tham số & Suy luận nhân quả | Thực nghiệm - Nâng cao | *(Đang biên soạn)* |
-| **06** | *Algorithmic Aspects of Machine Learning* | Ankur Moitra | Thuật toán ML từ góc nhìn CS lý thuyết | Nâng cao | *(Đang biên soạn)* |
-| **07** | *Mathematical Analysis of Machine Learning Algorithms* | Tong Zhang | Bất đẳng thức tập trung & RL Theory | Rất nâng cao | *(Đang biên soạn)* |
-| **08** | *Machine Learning with Neural Networks* | Bernhard Mehlig | Vật lý thống kê của mạng neural | Nâng cao | *(Đang biên soạn)* |
-| **09** | *The Principles of Deep Learning Theory* | D. A. Roberts, S. Yaida, B. Hanin | Lý thuyết trường hiệu dụng cho Deep Learning | Chuyên sâu | *(Đang biên soạn)* |
-| **10** | *Deep Learning on Graphs* | Yao Ma, Jiliang Tang | Biểu diễn học & Mạng neural trên đồ thị | Trung cấp - Nâng cao | *(Đang biên soạn)* |
+| # | Tác phẩm (Book Title) | Tác giả | Trọng tâm học thuật | Hồ sơ |
+| :-: | :--- | :--- | :--- | :---: |
+| **01** | **Elementary Probability for Applications** | Rick Durrett | Trực giác xác suất & Markov chains | [👉 Xem Profile](books/01-elementary-probability-for-applications.md) |
+| **02** | **Probability: Theory and Examples** (5th Ed.) | Rick Durrett | Xác suất giải tích độ đo & Martingales | [👉 Xem Profile](books/02-probability-theory-and-examples.md) |
+| **03** | **Mathematics for Machine Learning** | M. P. Deisenroth, A. A. Faisal, C. S. Ong | Đại số tuyến tính, Giải tích & 4 trụ cột ML | [👉 Xem Profile](books/03-mathematics-for-machine-learning.md) |
+| **04** | *Understanding Machine Learning: From Theory to Algorithms* | S. Shalev-Shwartz, S. Ben-David | Lý thuyết học thống kê (PAC, VC, Convex) | *(Đang biên soạn)* |
+| **05** | *Advanced Data Analysis from an Elementary Point of View* | Cosma Rohilla Shalizi | Hồi quy phi tham số & Suy luận nhân quả | *(Đang biên soạn)* |
+| **06** | *Algorithmic Aspects of Machine Learning* | Ankur Moitra | Thuật toán ML từ góc nhìn CS lý thuyết | *(Đang biên soạn)* |
+| **07** | *Mathematical Analysis of Machine Learning Algorithms* | Tong Zhang | Bất đẳng thức tập trung & RL Theory | *(Đang biên soạn)* |
+| **08** | *Machine Learning with Neural Networks* | Bernhard Mehlig | Vật lý thống kê của mạng neural | *(Đang biên soạn)* |
+| **09** | *The Principles of Deep Learning Theory* | D. A. Roberts, S. Yaida, B. Hanin | Lý thuyết trường hiệu dụng cho Deep Learning | *(Đang biên soạn)* |
+| **10** | *Deep Learning on Graphs* | Yao Ma, Jiliang Tang | Biểu diễn học & Mạng neural trên đồ thị | *(Đang biên soạn)* |
 
 ---
 
@@ -54,17 +54,12 @@ Repository đóng vai trò như một cẩm nang định hướng (study compani
   └── 10. Deep Learning on Graphs (Hình học đồ thị & Cấu trúc phi Euclid)
 ```
 
-### Lộ trình tham khảo (Flexible Pathways)
-* **Thực chiến & Mô hình hóa**: `01` ➔ `03` ➔ `05` ➔ `10`
-* **Lý thuyết Học máy chuẩn mực**: `01` ➔ `03` ➔ `04` ➔ `06` ➔ `07`
-* **Cơ chế Vật lý & Deep Learning**: `01` ➔ `02` ➔ `08` ➔ `09`
-
 ---
 
 ## 📄 License & Legal Notices
 
 ```text
-Copyright © [YEAR] [COPYRIGHT HOLDER]
+Copyright © 2026 mowfteedev
 ```
 
 * **Original Content (CC BY 4.0)**: Toàn bộ nội dung nguyên bản do repository xây dựng (`README.md`, các profiles `books/*.md`, tóm tắt, đánh giá giám tuyển, tài liệu điều hướng và metadata) được cấp phép theo [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). Người dùng được tự do tái sử dụng với điều kiện duy trì **Attribution** phù hợp.
