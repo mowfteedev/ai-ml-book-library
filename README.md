@@ -1,6 +1,5 @@
 # Curated AI/ML Book Library
 
-[![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](LICENSE)
 [![Curated Collection](https://img.shields.io/badge/Collection-10%20Canonical%20Books-blue.svg)]()
 [![No Piracy](https://img.shields.io/badge/Policy-No%20PDF%20Distribution-success.svg)]()
 
