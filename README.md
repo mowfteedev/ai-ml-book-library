@@ -8,18 +8,18 @@ Repository đóng vai trò như một cẩm nang định hướng (study compani
 
 ## 📚 Danh mục bộ sưu tập (Collection Index)
 
-| # | Tác phẩm (Book Title) | Tác giả | Trọng tâm học thuật | Link PDF |
-| :-: | :--- | :--- | :--- | :---: |
-| **01** | [**Elementary Probability for Applications**](books/01-elementary-probability-for-applications.md) | Rick Durrett | Trực giác xác suất & Markov chains | [📥](https://sites.math.duke.edu/~rtd/EP4A/EP4A_April2021.pdf) |
-| **02** | [**Probability: Theory and Examples** (5th Ed.)](books/02-probability-theory-and-examples.md) | Rick Durrett | Xác suất giải tích độ đo & Martingales | [📥](https://sites.math.duke.edu/~rtd/PTE/PTE5_011119.pdf) |
-| **03** | [**Mathematics for Machine Learning**](books/03-mathematics-for-machine-learning.md) | M. P. Deisenroth, A. A. Faisal, C. S. Ong | Đại số tuyến tính, Giải tích & 4 trụ cột ML | [📥](https://mml-book.github.io/book/mml-book.pdf) |
-| **04** | [**Understanding Machine Learning: From Theory to Algorithms**](books/04-understanding-machine-learning.md) | S. Shalev-Shwartz, S. Ben-David | Lý thuyết học thống kê (PAC, VC, Convex) | [📥](https://cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) |
-| **05** | [**Advanced Data Analysis from an Elementary Point of View**](books/05-advanced-data-analysis.md) | Cosma Rohilla Shalizi | Hồi quy phi tham số & Suy luận nhân quả | [📥](https://stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) |
-| **06** | [**Algorithmic Aspects of Machine Learning**](books/06-algorithmic-aspects-of-machine-learning.md) | Ankur Moitra | Thuật toán ML từ góc nhìn CS lý thuyết | [📥](https://people.csail.mit.edu/moitra/docs/bookexv2.pdf) |
-| **07** | [**Mathematical Analysis of Machine Learning Algorithms**](books/07-mathematical-analysis-of-ml-algorithms.md) | Tong Zhang | Bất đẳng thức tập trung & RL Theory | [📥](https://tongzhang-ml.org/lt-book/lt-book.pdf) |
-| **08** | [**Machine Learning with Neural Networks**](books/08-machine-learning-with-neural-networks.md) | Bernhard Mehlig | Vật lý thống kê của mạng neural | [📥](https://arxiv.org/pdf/1901.05639) |
-| **09** | [**The Principles of Deep Learning Theory**](books/09-the-principles-of-deep-learning-theory.md) | D. A. Roberts, S. Yaida, B. Hanin | Lý thuyết trường hiệu dụng cho Deep Learning | [📥](https://arxiv.org/pdf/2106.10165) |
-| **10** | [**Deep Learning on Graphs**](books/10-deep-learning-on-graphs.md) | Yao Ma, Jiliang Tang | Biểu diễn học & Mạng neural trên đồ thị | [📥](https://yaoma24.github.io/dlg_book/dlg_book.pdf) |
+| # | Tác phẩm (Book Title) | Tác giả | Trọng tâm học thuật |
+| :-: | :--- | :--- | :--- |
+| **01** | [**Elementary Probability for Applications**](books/01-elementary-probability-for-applications.md) | Rick Durrett | Trực giác xác suất & Markov chains |
+| **02** | [**Probability: Theory and Examples** (5th Ed.)](books/02-probability-theory-and-examples.md) | Rick Durrett | Xác suất giải tích độ đo & Martingales |
+| **03** | [**Mathematics for Machine Learning**](books/03-mathematics-for-machine-learning.md) | M. P. Deisenroth, A. A. Faisal, C. S. Ong | Đại số tuyến tính, Giải tích & 4 trụ cột ML |
+| **04** | [**Understanding Machine Learning: From Theory to Algorithms**](books/04-understanding-machine-learning.md) | S. Shalev-Shwartz, S. Ben-David | Lý thuyết học thống kê (PAC, VC, Convex) |
+| **05** | [**Advanced Data Analysis from an Elementary Point of View**](books/05-advanced-data-analysis.md) | Cosma Rohilla Shalizi | Hồi quy phi tham số & Suy luận nhân quả |
+| **06** | [**Algorithmic Aspects of Machine Learning**](books/06-algorithmic-aspects-of-machine-learning.md) | Ankur Moitra | Thuật toán ML từ góc nhìn CS lý thuyết |
+| **07** | [**Mathematical Analysis of Machine Learning Algorithms**](books/07-mathematical-analysis-of-ml-algorithms.md) | Tong Zhang | Bất đẳng thức tập trung & RL Theory |
+| **08** | [**Machine Learning with Neural Networks**](books/08-machine-learning-with-neural-networks.md) | Bernhard Mehlig | Vật lý thống kê của mạng neural |
+| **09** | [**The Principles of Deep Learning Theory**](books/09-the-principles-of-deep-learning-theory.md) | D. A. Roberts, S. Yaida, B. Hanin | Lý thuyết trường hiệu dụng cho Deep Learning |
+| **10** | [**Deep Learning on Graphs**](books/10-deep-learning-on-graphs.md) | Yao Ma, Jiliang Tang | Biểu diễn học & Mạng neural trên đồ thị |
 
 ---
 
