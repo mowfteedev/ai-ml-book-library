@@ -1,8 +1,5 @@
 # Curated AI/ML Book Library
 
-[![Curated Collection](https://img.shields.io/badge/Collection-10%20Canonical%20Books-blue.svg)]()
-[![No Piracy](https://img.shields.io/badge/Policy-No%20PDF%20Distribution-success.svg)]()
-
 Thư viện giám tuyển học thuật về **nền tảng toán học, xác suất lý thuyết, học máy thống kê và lý thuyết deep learning**.
 
 Repository đóng vai trò như một cẩm nang định hướng (study companion): cung cấp metadata chính thức, cấu trúc chương mục xác thực, tóm tắt khái niệm và ma trận liên kết giữa các tác phẩm mà **tuyệt đối không lưu trữ hay phân phối lại tệp sách/PDF**.
